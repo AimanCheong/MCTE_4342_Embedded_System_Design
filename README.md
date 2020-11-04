@@ -1,1 +1,1 @@
-# MCTE_4342_Embedded_System_Design
+# MCTE 4342 Embedded System Design
