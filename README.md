@@ -5,4 +5,4 @@
 This respository is dedicated weekly assessment and updates on MCTE 4342 - Embedded System Design course. 
 
 Go to 	>> "Weekly Assessment and Exercise" 	>> for weekly assesment based on lecture slides.
-	>> Project 				>> for updates regarding project 
+	>> Project 				>> for updates regarding project
