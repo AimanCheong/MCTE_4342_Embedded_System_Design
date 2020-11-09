@@ -3,7 +3,7 @@
 
 Exercise list:
 
-        i. Exercise 7           <Blink LED>		-completed-
+        i. Exercise 7           <Blink LED>			-completed-
 	
        ii. Exercise 8           <Push Button Counter>	-completed-
        
