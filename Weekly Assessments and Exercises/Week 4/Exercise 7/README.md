@@ -13,7 +13,7 @@ Front View:
 ![Front View](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%204/Exercise%207/Equipment%20Setup%20Front.jpg)
 
 ### Code
-Go to >> BlinkLED.ino for the Arduino code.
+Go to >> ![BlinkLED.ino](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%204/Exercise%207/BlinkLED.ino) for the Arduino code.
 
 ### Video Demonstration
 Click the following to watch the demostration of the output !
