@@ -13,3 +13,4 @@ Front View:
 
 
 ### Video Demonstration
+![Video_Demostration](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%204/Exercise%207/Demonstration%20Video.mp4)
