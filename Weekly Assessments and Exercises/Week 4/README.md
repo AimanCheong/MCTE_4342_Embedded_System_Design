@@ -1,4 +1,5 @@
-#Exercise for Week 4 Slide for Embedded System Design
+#Exercise for Week 4 Slide for Embedded System Design.
+
 
 Exercise list:
 
