@@ -13,6 +13,6 @@ Front View:
 
 
 ### Video Demonstration
-[![Video_Demostration]](https://youtu.be/cDvT0Q-E8Q0)
+[![Video_Demostration](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%204/Exercise%207/Equipment%20Setup%20Front.jpg)](https://youtu.be/cDvT0Q-E8Q0)
 
 
