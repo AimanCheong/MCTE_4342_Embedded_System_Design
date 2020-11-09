@@ -15,7 +15,7 @@ LED | On Time (ms) | Off time (ms)
 
 
 ### Circuit Diagram
-![Circuit Diagram](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%204/Exercise%209/Circuit%20Diagram.JPGG)
+![Circuit Diagram](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%204/Exercise%209/Circuit%20Diagram.JPG)
 
 ### Equipment Setup
 Top View:
