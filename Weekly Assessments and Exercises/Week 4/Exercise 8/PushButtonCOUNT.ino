@@ -1,4 +1,4 @@
-int A = 4,B = 5, C = 6, D = 7; 
+int A = 4, B = 5, C = 6, D = 7; 
 
 int A_count = 0, B_count = 0, C_count = 0, D_count = 0;
 
