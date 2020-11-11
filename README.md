@@ -2,7 +2,7 @@
 # Semester 1, 2020/2021
 # Aiman Bin Dasuqi Cheong 1719467
 
-This respository is dedicated weekly assessment and updates on MCTE 4342 - Embedded System Design course. 
+This repository is dedicated weekly assessment and updates on MCTE 4342 - Embedded System Design course. 
 
 Go to:
 	
