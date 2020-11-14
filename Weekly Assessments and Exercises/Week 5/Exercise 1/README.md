@@ -7,6 +7,7 @@ The program will print out values from 0 to 1023 according to the position of po
 
 ### Equipment Setup
 Top View:
+
 ![Top View](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%205/Exercise%201/Equipment%20Setup%20Top.jpeg)
 
 Front View:
