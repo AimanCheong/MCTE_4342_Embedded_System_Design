@@ -1,4 +1,4 @@
-# Push Button Counter
+# Blink 8 LEDs at different rate.
 
 8 LEDs are connected to Arduino Uno and a program is written to blink (On and Off) based on the time given below.
 
