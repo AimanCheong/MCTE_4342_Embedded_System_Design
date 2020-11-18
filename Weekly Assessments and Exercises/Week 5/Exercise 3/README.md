@@ -8,6 +8,18 @@ The program will continuously prints out the analog value of PC3 in continuously
 1. Trigger source(ADTS) == 000 (default) (the most common trigger source_
 1. When ADTS == 000, As soon as one conversion completed, another conversion automatically gets carried out.
 
+### Components Needed
+
+<details>
+<summary>Expand me!</summary>
+<br>
+ 
+ 1. Arduino Uno Board
+ 1. Jumper Wire
+ 1. Potentiometer (10k)
+ 
+ </details>
+
 ### Circuit Diagram
 ![Circuit Diagram](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%205/Exercise%203/Circuit%20Diagram.JPG)
 
