@@ -47,6 +47,6 @@ Go to >> [ADCReadingOnDemandMode.ino](https://github.com/AimanCheong/MCTE_4342_E
 ### Video Demonstration
 Click the following to watch the demostration of the output !
 
-[![Video_Demostration](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%205/Exercise%201/Equipment%20Setup%20Front.jpeg)](https://youtu.be/ZeKikt-upF8)
+[![Video_Demostration](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%205/Exercise%202/Circuit%20Diagram.JPG)](https://youtu.be/ZeKikt-upF8)
 
 
