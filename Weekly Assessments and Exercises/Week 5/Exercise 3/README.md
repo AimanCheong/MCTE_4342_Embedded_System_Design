@@ -1,6 +1,6 @@
 # ADC Reading Auto Trigger Mode
 
-The program will continuously prints outthe analog value of PC3 through the serial port ADC On-Demand Mode.
+The program will continuously prints out the analog value of PC3  in continuously running mode (Auto-Trigger)
 
 **Auto Trigger Mode**
 i. Auto-triggered enabled(ADATE = 1)
