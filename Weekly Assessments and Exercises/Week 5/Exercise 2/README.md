@@ -7,6 +7,18 @@ The program will continuously prints outthe analog value of PC3 by ADC On-Demand
 1. Auto-triggered disabled (ADATE = 0)
 1. On conversion at a time
 
+### Components Needed
+
+<details>
+<summary>Expand me!</summary>
+<br>
+ 
+ 1. Arduino Uno Board
+ 1. Jumper Wire
+ 1. Potentiometer (10k)
+ 
+ </details>
+
 ### Circuit Diagram
 ![Circuit Diagram](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%205/Exercise%201/Circuit%20Diagram.JPG)
 
