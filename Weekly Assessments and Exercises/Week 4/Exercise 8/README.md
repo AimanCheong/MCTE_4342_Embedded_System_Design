@@ -18,12 +18,12 @@ Four switches (A,B,C,and D) are connected to Arduino Uno.The microcontroller nee
 ![Circuit Diagram](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%204/Exercise%208/Circuit%20Diagram.JPG)
 
 ### Equipment Setup
+Top View:
 
 <details>
 <summary>Expand me!</summary>
 <br>
- 
-Top View:
+
 ![Top View](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%204/Exercise%208/Equipment%20Setup%20Top.jpg)
 
 </details>
