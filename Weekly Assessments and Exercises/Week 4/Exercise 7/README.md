@@ -10,8 +10,8 @@ There are two LEDs connected to the digital pin of Arduino Uno. The LED1 needs t
  
  1. Arduino Uno Board
  1. Jumper Wires
- 1. Two LEDs
- 1. Two 1 kΩ Resistors
+ 1. LEDs               x2
+ 1. 1 kΩ Resistors     x2
   
  </details>
 
