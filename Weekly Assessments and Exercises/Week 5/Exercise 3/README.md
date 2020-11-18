@@ -31,7 +31,7 @@ Front View:
 </details>
 
 ### Code
-Go to >> [ADCReadingOnDemandMode.ino](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%205/Exercise%202/ADCReadingOnDemandMode.ino)
+Go to >> [ADCReadingAutoTrigger.ino](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%205/Exercise%203/ADCReadingAutoTrigger.ino)
 
 ### Video Demonstration
 Click the following to watch the demostration of the output !
