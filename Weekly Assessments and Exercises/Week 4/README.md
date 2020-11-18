@@ -1,5 +1,6 @@
 # Exercise for Week 4 Slide for Embedded System Design.
 
+### Topic: General Purpose Input/Output (GPIO)
 
 Exercise list:
 
