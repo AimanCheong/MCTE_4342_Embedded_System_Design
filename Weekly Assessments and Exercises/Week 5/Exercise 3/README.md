@@ -3,10 +3,10 @@
 The program will continuously prints out the analog value of PC3 in continuously running mode (Auto-Trigger)
 
 **Auto Trigger Mode**
-i. Auto-triggered enabled(ADATE = 1)
-ii. Trigger source can be selected
-iii. Trigger source(ADTS) == 000 (default) (the most common trigger source_
-iv. When ADTS == 000, As soon as one conversion completed, another conversion automatically gets carried out.
+1. Auto-triggered enabled(ADATE = 1)
+1. Trigger source can be selected
+1. Trigger source(ADTS) == 000 (default) (the most common trigger source_
+1. When ADTS == 000, As soon as one conversion completed, another conversion automatically gets carried out.
 
 ### Circuit Diagram
 ![Circuit Diagram](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%205/Exercise%201/Circuit%20Diagram.JPG)
@@ -29,3 +29,12 @@ Front View:
 ![Front View](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%205/Exercise%202/Equipment%20Setup%20Top.jpeg)
 
 </details>
+
+### Code
+Go to >> [ADCReadingOnDemandMode.ino](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%205/Exercise%202/ADCReadingOnDemandMode.ino)
+
+### Video Demonstration
+Click the following to watch the demostration of the output !
+
+[![Video_Demostration](https://github.com/AimanCheong/MCTE_4342_Embedded_System_Design/blob/main/Weekly%20Assessments%20and%20Exercises/Week%205/Exercise%201/Equipment%20Setup%20Front.jpeg)](https://youtu.be/ZeKikt-upF8)
+
