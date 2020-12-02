@@ -3,3 +3,4 @@
 1. Week 2  -  C++ Programming
 2. Week 4  -  General Purpose Input/Output (GPIO)
 3. Week 5  -  Analog Input
+4. Week 6  -  Timer Ports
