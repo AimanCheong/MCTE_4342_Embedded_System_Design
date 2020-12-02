@@ -6,6 +6,6 @@ Exercise list:
 
 	1. Exercise 7           <Blink LED>		-completed-
 	
-	1. Exercise 8           <Push Button Counter>	-completed-
+	2. Exercise 8           <Push Button Counter>	-completed-
        
-	1. Exercise 9           <Blink 8 LEDs>		-completed-
+	3. Exercise 9           <Blink 8 LEDs>		-completed-
