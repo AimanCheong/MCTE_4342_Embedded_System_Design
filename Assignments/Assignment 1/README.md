@@ -19,7 +19,7 @@ If gamestart is LOW, it will show indication of rebooting up sequence with blink
 Once gamestart is HIGH, it will start up the starting sequence, and next depends on the PVP button, it will go to two modes:
 
         1. Player vs Player 
-        1. Player vs Computer 
+        2. Player vs Computer 
         
 If PVP is LOW, then Player vs Player mode, whereby the system will read the play1 and next1 inputs (for Player 1). 
 
