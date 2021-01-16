@@ -1,5 +1,5 @@
 ### Cyclone!
-## Files is to big to upload 
+## Video files is to big to upload 
 # Click the link or photo below to watch the Demonstration Video
 
 Link: https://drive.google.com/file/d/1JeJQ0fbQG_kdplivTFc4bTmZJFcPgP_H/view?usp=sharing
